@@ -1,1 +1,3 @@
-# MineSweepersProject
+### MineSweepersProject
+
+The Minesweepers project.
